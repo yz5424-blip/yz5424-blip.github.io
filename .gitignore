@@ -8,3 +8,6 @@ lab*.ipynb
 
 # MyST build outputs
 _build
+
+# downloaded datasets (notebooks re-download them if missing)
+street_trees_2015.csv

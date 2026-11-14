@@ -4,7 +4,7 @@ Welcome! This site collects my data analysis and programming work, starting with
 
 ## Projects
 
-Coming soon.
+- [Project 1: How Thick Are New York City's Street Trees?](project_1.ipynb): the mean, median, and mode of trunk sizes in the 2015 NYC Street Tree Census, calculated with pandas and with plain Python, plus a chart drawn in emoji.
 
 ## Examples
 
